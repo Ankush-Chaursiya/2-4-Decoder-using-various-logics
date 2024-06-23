@@ -1,5 +1,3 @@
 # 2-4-Decoder-using-various-logics
-Developed and analyzed a 2:4 decoder using CMOS logic, Transmission Gate logic and pseudo nmos within LTspice
-software. Conducted a comprehensive comparison, evaluating power dissipation, area efficiency,
-operational speed, and noise margin. <br />
+Implemented a 2x4 decoder using three logic styles: static CMOS, transmission gate, and pseudo-NMOS in LTspice. Subsequently, and compared these implementations regarding the number of transistors used and propagation delay.
 .asc files are files that run on LTspice software. 
